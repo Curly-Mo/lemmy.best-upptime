@@ -5,6 +5,7 @@ repo: lemmy.best-upptime # The name of this repository
 sites:
   - name: lemmy.best
     url: https://lemmy.best
+    __dangerous__insecure: true
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
@@ -23,7 +24,8 @@ status-website:
   logoUrl: https://lemmy.best/pictrs/image/d3f4a0dd-e4d4-47a9-bbc4-c9d33fd38342.png
   name: lemmy.best
   introTitle: "**lemmy.best**: The worst lemmy"
-  introMessage: Realtime status monitoring of https://lemmy.best
+  introMessage: Realtime status monitoring of [https://lemmy.best](https://lemmy.best)
+  theme: night
   navbar:
     - title: Status
       href: /lemmy.best-upptime
@@ -31,6 +33,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: lemmy.best
       href: https://lemmy.best
+
+user-agent: Curly-Mo
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
