@@ -1,6 +1,6 @@
 # [📈 Live Status](https://Curly-Mo.github.io/lemmy.best-upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Colin Fahy](http://cfahy.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [https://lemmy.best](https://lemmy.best), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Curly-Mo/lemmy.best-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Curly-Mo/lemmy.best-upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Curly-Mo/lemmy.best-upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Curly-Mo/lemmy.best-upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -25,5 +25,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Colin Fahy](http://cfahy.com)
+- Code: [MIT](./LICENSE) © [PartyCat](http://lemmy.best/u/PartyCat )
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
