@@ -20,8 +20,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /lemmy.best-upptime
+  cname: status.lemmy.best
+  # baseUrl: /lemmy.best-upptime
   logoUrl: https://lemmy.best/pictrs/image/d3f4a0dd-e4d4-47a9-bbc4-c9d33fd38342.png
   name: lemmy.best
   introTitle: "**lemmy.best**: The worst lemmy"
@@ -29,7 +29,7 @@ status-website:
   theme: night
   navbar:
     - title: Status
-      href: /lemmy.best-upptime
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: lemmy.best
