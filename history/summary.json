@@ -1,0 +1,20 @@
+[
+  {
+    "name": "lemmy.best",
+    "url": "https://lemmy.best",
+    "icon": "https://icons.duckduckgo.com/ip3/lemmy.best.ico",
+    "slug": "lemmy-best",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
+    "dailyMinutesDown": {}
+  }
+]
