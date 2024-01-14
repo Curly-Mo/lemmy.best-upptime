@@ -4,16 +4,16 @@
     "url": "https://lemmy.best",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.best.ico",
     "slug": "lemmy-best",
-    "status": "up",
-    "uptime": "93.62%",
-    "uptimeDay": "81.32%",
+    "status": "down",
+    "uptime": "93.64%",
+    "uptimeDay": "81.31%",
     "uptimeWeek": "87.57%",
     "uptimeMonth": "86.26%",
-    "uptimeYear": "93.62%",
+    "uptimeYear": "93.64%",
     "time": 2988,
-    "timeDay": 10812,
-    "timeWeek": 5918,
-    "timeMonth": 2682,
+    "timeDay": 10707,
+    "timeWeek": 5944,
+    "timeMonth": 2685,
     "timeYear": 2988,
     "dailyMinutesDown": {
       "2024-01-14": 154,
@@ -60,7 +60,7 @@
       "2023-11-03": 57,
       "2023-11-02": 154,
       "2023-11-01": 627,
-      "2023-10-31": 72
+      "2023-10-31": 43
     }
   }
 ]
