@@ -6,17 +6,16 @@
     "slug": "lemmy-best",
     "status": "up",
     "uptime": "95.49%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "78.66%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "95.49%",
     "time": 2511,
-    "timeDay": 1991,
-    "timeWeek": 4213,
-    "timeMonth": 1569,
+    "timeDay": 1750,
+    "timeWeek": 4216,
+    "timeMonth": 1570,
     "timeYear": 2511,
     "dailyMinutesDown": {
-      "2024-06-12": 8,
       "2024-06-10": 337,
       "2024-06-09": 1311,
       "2024-06-08": 477,
@@ -59,7 +58,7 @@
       "2024-01-14": 1120,
       "2024-01-13": 115,
       "2024-01-12": 761,
-      "2024-01-11": 23
+      "2024-01-11": 53
     }
   }
 ]
