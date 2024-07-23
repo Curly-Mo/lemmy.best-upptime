@@ -6,7 +6,7 @@
     "slug": "lemmy-best",
     "status": "down",
     "uptime": "92.20%",
-    "uptimeDay": "89.99%",
+    "uptimeDay": "89.92%",
     "uptimeWeek": "86.15%",
     "uptimeMonth": "52.52%",
     "uptimeYear": "92.20%",
@@ -16,7 +16,7 @@
     "timeMonth": 2441,
     "timeYear": 2643,
     "dailyMinutesDown": {
-      "2024-07-23": 72,
+      "2024-07-23": 73,
       "2024-07-22": 72,
       "2024-07-20": 61,
       "2024-07-19": 17,
