@@ -4,12 +4,12 @@
     "url": "https://lemmy.best",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.best.ico",
     "slug": "lemmy-best",
-    "status": "up",
+    "status": "down",
     "uptime": "94.29%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.80%",
     "uptimeWeek": "84.96%",
     "uptimeMonth": "80.08%",
-    "uptimeYear": "93.03%",
+    "uptimeYear": "93.04%",
     "time": 2474,
     "timeDay": 518,
     "timeWeek": 1996,
@@ -82,7 +82,7 @@
       "2024-08-17": 29,
       "2024-08-12": 82,
       "2024-08-11": 232,
-      "2024-08-10": 140
+      "2024-08-10": 107
     }
   }
 ]
