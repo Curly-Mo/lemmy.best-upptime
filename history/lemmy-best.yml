@@ -1,7 +1,7 @@
 url: https://lemmy.best
-status: down
-code: 500
-responseTime: 12096
-lastUpdated: 2025-01-16T02:02:38.075Z
+status: up
+code: 200
+responseTime: 8669
+lastUpdated: 2025-01-16T02:13:39.455Z
 startTime: 2023-09-07T08:14:24.573Z
 generator: Upptime <https://github.com/upptime/upptime>
